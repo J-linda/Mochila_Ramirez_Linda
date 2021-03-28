@@ -1,0 +1,12 @@
+Resumen Clase 1:
+
+En esta Clase nos dieron la Bienvenida, se trataron temas del Programa en sí, de la Cursada y sus diferentes Módulos
+que contiene la Materia: 1. Inmersión, 2. Hadware y Software, 3. Herramientas de trabajo, 4. Surfeando en Internet, 5. Evitando
+el Naufragio. De igual manera informaron la manera en que iba a evaluarse la Materia para aprobarla. 
+
+Por otra parte tocamos el tema de las Computadoras: En donde se definió que es un dispositivo capaz de recibir instrucciones. 
+Nos dieron una pequeña introducción a la Historia de la Informatica: Iniciando desde el Abaco en China, La pascalina: Calculadora1642, 
+Jacquard: Tarjetas Perforadas, Babbague: Primera Computadora, A. Lovelace: Primer Algortimo, Turing: Maquina para desifrar mensajes de Alemanes, 
+ENIAC: 1943, Neuman: Arquitectura de una Computadora, IBM: Computadoras Cuanticas, Inteligencia artificial: Ciencia.
+
+De la misma manera se hablo en parte general de Hadware (Perifericos de Entrada, Salida e Hibridos), Servidores, Software e Interfaces. 

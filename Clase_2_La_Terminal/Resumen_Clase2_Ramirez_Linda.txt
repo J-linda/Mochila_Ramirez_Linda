@@ -1,0 +1,17 @@
+Resumen Clase 2:
+
+En esta clase se introducieron los siguientes temas:
+
+1. Terminal: Permite dar instrucciones a la computadora a través de comandos (Interfaz limpia, sin interrupciones y que toma menos recuros). 
+2. Navegación e Interacción: Primeros Comandos: - Pwd: Muestra nombre de la carpeta en el que uno se encuentra situado.
+- Cd:Cambiar carpeta de trabajo, nos permite movernos a diferentes achivos e ingresar a una posición especifica
+- ls: Listar el contenido 
+- mkdir:Crear Carpetas 
+- rm: Borrar Archivos
+- cp -r: Copiar carpetas
+- lmv: Mover un archivo o carpeta
+- nano: Editor de Texto
+- cd ../: Ir a una carpeta anterior por niveles
+- rm -r: Eelegir carpetas para eliminar
+- mv: Mover archivos
+3. Git Bash (Instalación (previamente), como usaelo, primeros comandos en la Terminal)

@@ -1,0 +1,19 @@
+Resumen Clase 3:
+
+En esta clase se inicio con la Introducción de GitHub: El cual es una software de control de versiones, en cual se puede tener un back up, compartir nuestros trabajos con otros,
+realizar proyectos de forma simultanea,se puede modificar y actualizar información desde el repositorio local al 
+repositorio remoto y vs. 
+
+De la misma manera vimos otros comandos como:
+1. git --version: Para ver la versión de Git que tenemos instalada
+2. git init: Crear Repositorio
+3. git config user.name y git config user.email: Ambos para agregar nombre de usuario y el otro email
+4. git remote add origin + https (url de GitHub): Apunta al reporsitorio Remoto 
+5. git add: agregar archivos
+6. git status: Seguimiento del estado y compara
+7. git clone: Copia de archivo en repositorio remoto
+8. git commit - m: "Mensaje" - comitea los cambios hechos
+10. git push origin master/main: Envia los cambios ejecutados
+11. git pull origin master/main: Actualiza cambios
+
+Igualmente se hablo de como conectar los repositorios, como crear uno en GitHub y comandos relacionados con este software. 
